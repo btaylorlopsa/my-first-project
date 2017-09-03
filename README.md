@@ -2,4 +2,4 @@
 
 ## My first *GitHub* project.
 
-This is a ~~work~~ in __progress__.
+This is a work in __progress__.
