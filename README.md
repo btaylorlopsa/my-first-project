@@ -1,2 +1,2 @@
-# my-first-project
+# Ben's First Project 
 My first GitHub project.
